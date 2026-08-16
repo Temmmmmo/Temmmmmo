@@ -67,8 +67,8 @@
 ## 📊 Статистика GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Temmmmmo&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Temmmmmo&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=temmmmmo&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=temmmmmo&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ## 📫 Контакты
